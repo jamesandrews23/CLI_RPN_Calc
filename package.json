@@ -1,0 +1,19 @@
+{
+  "name": "cli_rpn_calc",
+  "version": "1.0.0",
+  "description": "A Reverse Polish Notation Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesandrews23/CLI_RPN_Calc.git"
+  },
+  "author": "James Andrews",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesandrews23/CLI_RPN_Calc/issues"
+  },
+  "homepage": "https://github.com/jamesandrews23/CLI_RPN_Calc#readme"
+}
